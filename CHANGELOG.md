@@ -1,5 +1,11 @@
 # Changelog
 
+## v8.0.0
+
+### New features
+
+* Add support for Mongoose 6 and 7
+
 ## v7.1.1
 
 ### Fixed bugs

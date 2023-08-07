@@ -68,7 +68,7 @@ Starting from version 7.0.0, this module only supports Mongoose 4.11.4 and upper
 
 ### Supported versions of Node
 
-This module currently supports Node.js 4, 5, 6, 7 and 8. If you find a bug while using one of these versions, please [fill a bug report!](https://github.com/matteodelabre/mongoose-beautiful-unique-validation/issues/new)
+This module currently supports Node.js >= 14. If you find a bug while using one of these versions, please [fill a bug report!](https://github.com/men232/mongoose-beautiful-unique-validation/issues/new)
 
 ## Example
 
