@@ -249,6 +249,7 @@ module.exports = function (schema, options) {
 
 	schema.post('save', postHook);
 	schema.post('updateOne', postHook);
+    	schema.post('updateMany', postHook);
 	schema.post('findOneAndUpdate', postHook);
 };
 
